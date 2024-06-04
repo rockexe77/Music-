@@ -1,9 +1,9 @@
 module.exports.config = {
-  name: 'video',
+  name: 'ytv',
   version: '1.0.0',
   permssion: 0,
   credits: 'Emon',
-  prefix: 'awto',
+  prefix: 'true',
   description: 'Play video via YouTube link or search keyword',
   category: 'midia',
   usages: 'video[searchVideos]',
