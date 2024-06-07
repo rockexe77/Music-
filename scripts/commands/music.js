@@ -29,11 +29,11 @@ async function downloadMusicFromYoutube(link, path) {
   return returnPromise
 }
 module.exports.config = {
-    name: "music",
+    name: "song",
     version: "1.0.0",
     permission: 0,
     credits: "Emon",
-    prefix: 'awto',
+    prefix: 'true',
     description: "play music through youtube link or search keyword",
     category: "entertainment",
     usages: "music [link/args]",
